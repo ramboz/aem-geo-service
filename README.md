@@ -1,11 +1,11 @@
-# Empty Starter Kit for JavaScript
+# A simple geo service that runs at the edge
 
-[![Deploy to Fastly](https://deploy.edgecompute.app/button)](https://deploy.edgecompute.app/deploy)
+## Demo
 
-An empty application template for the Fastly Compute@Edge environment which simply returns a 200 OK response.
+Cloudflare: https://geo-service.adobe-franklin.workers.dev/
+Fastly: https://franklin-geo-service.edgecompute.app/
 
-**For more details about other starter kits for Compute@Edge, see the [Fastly developer hub](https://developer.fastly.com/solutions/starters)**
+## Deploying the edge action
 
-## Security issues
-
-Please see our [SECURITY.md](SECURITY.md) for guidance on reporting security-related issues.
+Cloudflare: https://developers.cloudflare.com/workers/get-started/guide/#4-deploy-your-project
+Fastly: https://developer.fastly.com/learning/compute/#deploy-to-a-fastly-service
