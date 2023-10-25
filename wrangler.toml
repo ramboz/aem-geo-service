@@ -1,0 +1,9 @@
+name = "geo-service"
+type = "javascript"
+
+account_id = ""
+workers_dev = true
+route = ""
+zone_id = ""
+main = "src/index.js"
+compatibility_date = "2022-12-02"
